@@ -1,10 +1,10 @@
 import React from 'react'
 import giphy from "../assets/giphy.gif";
-import ReactPlayer from "react-player";
+
 
 function About() {
   return (
-    <div className="max-w-[1320px] h-[35.25rem]
+    <div name="about" className="max-w-[1320px] h-[35.25rem]
      md:py-[80] py-10 flex mx-auto  sm:flex-row flex-col ">
         <div className="basis-[45%]  w-full relative ">
           <img className="w-full " src={giphy} alt="nope" />

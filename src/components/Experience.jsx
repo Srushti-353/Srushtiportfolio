@@ -4,7 +4,7 @@ import html from "../assets/logo-full.png";
 import css from "../assets/arihant.png";
 import javascript from "../assets/transtech.jpeg";
 import reactImage from "../assets/internshala.jpeg";
-import tailwind from "../assets/tailwind.png";
+
 
 const Experience = () => {
   const techs = [
